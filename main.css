@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    font-family: 'Lobster';
+    text-transform: uppercase;
+    color: rgb(45, 107, 161);
+    text-decoration: underline;
+}
+h1>a:hover{
+    color: brown;
+    text-decoration-line: none;
+    font-size: 20pt;
+}
